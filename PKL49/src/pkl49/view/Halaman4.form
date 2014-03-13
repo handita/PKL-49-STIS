@@ -1,0 +1,1790 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.7" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <Properties>
+    <Property name="opaque" type="boolean" value="false"/>
+  </Properties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignBorderLayout"/>
+  <SubComponents>
+    <Container class="pkl49.component.ScroolPane" name="scroolPane1">
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignBorderLayout" value="org.netbeans.modules.form.compat2.layouts.DesignBorderLayout$BorderConstraintsDescription">
+          <BorderConstraints direction="Center"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="pkl49.component.PanelTransparan" name="panelScroll">
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace min="-2" max="-2" attributes="0"/>
+                      <Component id="panelTabel" max="32767" attributes="0"/>
+                      <EmptySpace min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" max="-2" attributes="0"/>
+                      <Component id="panelTabel" max="32767" attributes="0"/>
+                      <EmptySpace min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Container class="pkl49.component.PanelTransparan" name="panelTabel">
+              <Properties>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="null"/>
+                </Property>
+              </Properties>
+
+              <Layout>
+                <DimensionLayout dim="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Component id="panelTransparan1" max="32767" attributes="0"/>
+                          <Component id="panelTransparan2" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+                <DimensionLayout dim="1">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="panelTransparan1" max="32767" attributes="2"/>
+                      <Component id="panelTransparan2" max="32767" attributes="2"/>
+                  </Group>
+                </DimensionLayout>
+              </Layout>
+              <SubComponents>
+                <Container class="pkl49.component.PanelTransparan" name="panelTransparan1">
+
+                  <Layout>
+                    <DimensionLayout dim="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="panelB6" pref="384" max="32767" attributes="0"/>
+                          <Component id="panelB6R1" alignment="0" max="32767" attributes="2"/>
+                          <Component id="panelB6R2" alignment="0" max="32767" attributes="2"/>
+                          <Component id="panelB6R3" alignment="0" max="32767" attributes="2"/>
+                          <Component id="panelB6R4" alignment="0" max="32767" attributes="2"/>
+                          <Component id="panelB6R5" alignment="0" max="32767" attributes="2"/>
+                          <Component id="panelB6R6" alignment="0" max="32767" attributes="2"/>
+                          <Component id="panelB6R7" alignment="0" max="32767" attributes="2"/>
+                          <Component id="panelB6R8" alignment="0" max="32767" attributes="2"/>
+                      </Group>
+                    </DimensionLayout>
+                    <DimensionLayout dim="1">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="panelB6" pref="35" max="32767" attributes="0"/>
+                              <Component id="panelB6R1" max="32767" attributes="0"/>
+                              <Component id="panelB6R2" pref="46" max="32767" attributes="0"/>
+                              <Component id="panelB6R3" max="32767" attributes="0"/>
+                              <Component id="panelB6R4" max="32767" attributes="0"/>
+                              <Component id="panelB6R5" max="32767" attributes="0"/>
+                              <Component id="panelB6R6" max="32767" attributes="0"/>
+                              <Component id="panelB6R7" max="32767" attributes="0"/>
+                              <Component id="panelB6R8" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                    </DimensionLayout>
+                  </Layout>
+                  <SubComponents>
+                    <Container class="pkl49.component.PanelTransparan" name="panelB6">
+                      <Properties>
+                        <Property name="alpha" type="int" value="70"/>
+                      </Properties>
+
+                      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignGridBagLayout"/>
+                      <SubComponents>
+                        <Component class="pkl49.component.Label" name="label1">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="VI. LINGKUNGAN TEMPAT TINGGAL"/>
+                            </Property>
+                            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                              <Font name="Tahoma" size="12" style="1"/>
+                            </Property>
+                          </Properties>
+                          <Constraints>
+                            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignGridBagLayout" value="org.netbeans.modules.form.compat2.layouts.DesignGridBagLayout$GridBagConstraintsDescription">
+                              <GridBagConstraints gridX="-1" gridY="-1" gridWidth="1" gridHeight="1" fill="0" ipadX="0" ipadY="0" insetsTop="6" insetsLeft="6" insetsBottom="6" insetsRight="6" anchor="10" weightX="0.0" weightY="0.0"/>
+                            </Constraint>
+                          </Constraints>
+                        </Component>
+                      </SubComponents>
+                    </Container>
+                    <Container class="pkl49.component.PanelTransparan" name="panelB6R1">
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="label11" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace pref="219" max="32767" attributes="0"/>
+                                          <Component id="txtB6R1" min="-2" pref="34" max="-2" attributes="1"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="10" pref="10" max="10" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Component id="label12" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="txtB6R1BTanah" min="-2" pref="38" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Component id="label4" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="91" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="label11" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txtB6R1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="label12" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txtB6R1BTanah" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label4" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace pref="13" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Component class="pkl49.component.Label" name="label11">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="1. Jenis lantai terluas :"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label12">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="1. Bukan Tanah"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label4">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="2. Tanah "/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.TextField" name="txtB6R1">
+                          <Properties>
+                            <Property name="maxDigit" type="char" value="2"/>
+                            <Property name="minDigit" type="char" value="1"/>
+                          </Properties>
+                          <Events>
+                            <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="focusTxt"/>
+                          </Events>
+                        </Component>
+                        <Component class="pkl49.component.TextField" name="txtB6R1BTanah">
+                          <Events>
+                            <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="focusTxt"/>
+                          </Events>
+                        </Component>
+                      </SubComponents>
+                    </Container>
+                    <Container class="pkl49.component.PanelTransparan" name="panelB6R2">
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace min="-2" max="-2" attributes="0"/>
+                                  <Component id="label5" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace pref="213" max="32767" attributes="0"/>
+                                  <Component id="txtB6R2" min="-2" pref="33" max="-2" attributes="1"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" max="-2" attributes="0">
+                                  <EmptySpace min="-2" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="label5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txtB6R2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Component class="pkl49.component.Label" name="label5">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="2. Luas Lantai : . . . .m2"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.TextField" name="txtB6R2">
+                          <Properties>
+                            <Property name="length" type="int" value="3"/>
+                          </Properties>
+                          <Events>
+                            <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="focusTxt"/>
+                          </Events>
+                        </Component>
+                      </SubComponents>
+                    </Container>
+                    <Container class="pkl49.component.PanelTransparan" name="panelB6R3">
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" attributes="0">
+                                          <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Group type="102" attributes="0">
+                                                  <EmptySpace min="-2" pref="15" max="-2" attributes="0"/>
+                                                  <Component id="label74" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Group type="102" attributes="0">
+                                                  <EmptySpace min="10" pref="10" max="10" attributes="0"/>
+                                                  <Component id="label66" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Component id="label65" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="label60" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace pref="119" max="32767" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="txtB6R3B" max="32767" attributes="1"/>
+                                      <Component id="txtB6R3A" alignment="0" pref="32" max="32767" attributes="1"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="label60" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="label74" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="label65" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="label66" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="txtB6R3A" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                                          <Component id="txtB6R3B" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace pref="13" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Component class="pkl49.component.Label" name="label60">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="3. a. Berapa jumlah ruangan dalam rumah"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label65">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="b. Berapa ruangan yang ada ventilasinya"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label66">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value=" (termasuk jendela)?"/>
+                            </Property>
+                            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                              <Font name="Tahoma" size="11" style="1"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label74">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="Anda?"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.TextField" name="txtB6R3A">
+                          <Properties>
+                            <Property name="length" type="int" value="2"/>
+                          </Properties>
+                          <Events>
+                            <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="focusTxt"/>
+                          </Events>
+                        </Component>
+                        <Component class="pkl49.component.TextField" name="txtB6R3B">
+                          <Events>
+                            <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="focusTxt"/>
+                          </Events>
+                        </Component>
+                      </SubComponents>
+                    </Container>
+                    <Container class="pkl49.component.PanelTransparan" name="panelB6R4">
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="label9" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace pref="109" max="32767" attributes="0"/>
+                                          <Component id="txtB6R4" min="-2" pref="33" max="-2" attributes="1"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="10" pref="10" max="10" attributes="0"/>
+                                          <Component id="label3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="label42" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label13" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label10" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="label9" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txtB6R4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="3" max="-2" attributes="0"/>
+                                  <Component id="label3" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label10" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="1" max="-2" attributes="0"/>
+                                  <Component id="label42" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label13" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace pref="13" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Component class="pkl49.component.Label" name="label9">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="4. Apakah pada siang hari bisa membaca jelas"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label10">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="(pencacah dapat melihat sendiri, tidak perlu"/>
+                            </Property>
+                            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                              <Font name="Tahoma" size="11" style="1"/>
+                            </Property>
+                          </Properties>
+                          <AuxValues>
+                            <AuxValue name="JavaCodeGenerator_SerializeTo" type="java.lang.String" value="Hal6_label10"/>
+                          </AuxValues>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label13">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="1. Ya          2. Tidak"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label3">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value=" tanpa penerangan?"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label42">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value=" ditanya langsung)"/>
+                            </Property>
+                            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                              <Font name="Tahoma" size="11" style="1"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.TextField" name="txtB6R4">
+                          <Properties>
+                            <Property name="maxDigit" type="char" value="2"/>
+                            <Property name="minDigit" type="char" value="1"/>
+                          </Properties>
+                          <Events>
+                            <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="focusTxt"/>
+                          </Events>
+                        </Component>
+                      </SubComponents>
+                    </Container>
+                    <Container class="pkl49.component.PanelTransparan" name="panelB6R5">
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="label67" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace pref="157" max="32767" attributes="0"/>
+                                          <Component id="txtB6R5" min="-2" pref="32" max="-2" attributes="1"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Group type="103" groupAlignment="1" attributes="0">
+                                                      <Group type="102" attributes="0">
+                                                          <Group type="103" groupAlignment="0" attributes="0">
+                                                              <Component id="label68" min="-2" max="-2" attributes="0"/>
+                                                              <Component id="label70" min="-2" max="-2" attributes="0"/>
+                                                          </Group>
+                                                          <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                                                      </Group>
+                                                      <Group type="102" alignment="1" attributes="0">
+                                                          <Component id="label76" min="-2" max="-2" attributes="0"/>
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                      </Group>
+                                                  </Group>
+                                                  <Group type="103" groupAlignment="0" attributes="0">
+                                                      <Component id="label77" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="label78" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                      <Group type="102" alignment="0" attributes="0">
+                                                          <Component id="label79" min="-2" max="-2" attributes="0"/>
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                          <Component id="txtB6R5Lain" min="-2" pref="38" max="-2" attributes="0"/>
+                                                      </Group>
+                                                  </Group>
+                                              </Group>
+                                              <Component id="label75" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="70" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="label67" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txtB6R5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="1" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Group type="102" alignment="1" attributes="0">
+                                          <Component id="label75" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace min="-2" pref="65" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="1" attributes="0">
+                                          <Group type="103" groupAlignment="3" attributes="0">
+                                              <Component id="label77" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label68" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="3" attributes="0">
+                                              <Component id="label78" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label70" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="3" attributes="0">
+                                              <Component id="label79" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              <Component id="txtB6R5Lain" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label76" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace pref="13" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Component class="pkl49.component.Label" name="label67">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="5. Bahan bakar/energi utama untuk "/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label68">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="1. Listrik"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label70">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="2. Gas/LPG"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label75">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="memasak:"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label76">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="3. Minyak tanah"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label77">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="4. Arang/briket"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label78">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="5. Kayu Bakar"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label79">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="6. Lainnya"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.TextField" name="txtB6R5">
+                          <Properties>
+                            <Property name="maxDigit" type="char" value="6"/>
+                            <Property name="minDigit" type="char" value="1"/>
+                          </Properties>
+                          <Events>
+                            <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="focusTxt"/>
+                          </Events>
+                        </Component>
+                        <Component class="pkl49.component.TextField" name="txtB6R5Lain">
+                          <Events>
+                            <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="focusTxt"/>
+                          </Events>
+                        </Component>
+                      </SubComponents>
+                    </Container>
+                    <Container class="pkl49.component.PanelTransparan" name="panelB6R6">
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="label14" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace pref="195" max="32767" attributes="0"/>
+                                          <Component id="txtB6R6" min="-2" pref="33" max="-2" attributes="1"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="10" pref="10" max="10" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="label16" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label17" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label15" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label18" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label19" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label20" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label21" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Component id="label22" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="txtB6R6Lain" min="-2" pref="39" max="-2" attributes="0"/>
+                                              </Group>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="47" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="label14" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txtB6R6" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label15" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label16" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label17" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label18" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label19" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label20" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label21" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="label22" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txtB6R6Lain" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace pref="13" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Component class="pkl49.component.Label" name="label14">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="6. Sumber air minum utama:"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label15">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="1. Air kemasan"/>
+                            </Property>
+                          </Properties>
+                          <AuxValues>
+                            <AuxValue name="JavaCodeGenerator_SerializeTo" type="java.lang.String" value="Hal6_label10"/>
+                          </AuxValues>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label16">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="2. Air Ledeng"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label17">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="3. Air Pompa"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label18">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="4. Sumur terlindung"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label19">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="5. Sumur tak terlindung"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label20">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="6. Mata air terlindung"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label21">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="7. Mata air tak telindung"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label22">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="8. Lainnya"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.TextField" name="txtB6R6">
+                          <Properties>
+                            <Property name="maxDigit" type="char" value="8"/>
+                            <Property name="minDigit" type="char" value="1"/>
+                          </Properties>
+                          <Events>
+                            <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="focusTxt"/>
+                          </Events>
+                        </Component>
+                        <Component class="pkl49.component.TextField" name="txtB6R6Lain">
+                          <Events>
+                            <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="focusTxt"/>
+                          </Events>
+                        </Component>
+                      </SubComponents>
+                    </Container>
+                    <Container class="pkl49.component.PanelTransparan" name="panelB6R7">
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="label24" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace pref="97" max="32767" attributes="0"/>
+                                          <Component id="txtB6R7" min="-2" pref="32" max="-2" attributes="1"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="10" pref="10" max="10" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="label2" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label23" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label25" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label6" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label7" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="label24" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txtB6R7" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="3" max="-2" attributes="0"/>
+                                  <Component id="label2" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label23" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label25" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label6" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label7" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace pref="13" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Component class="pkl49.component.Label" name="label24">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="7. Jarak septik tank terdekat dengan sumber air "/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label25">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="1. &#x2265; 10 m"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label6">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="2. &lt; 10 m"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label23">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="[Isikan kode 1 bila R.6=1 atau 2]"/>
+                            </Property>
+                            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                              <Font name="Tahoma" size="11" style="2"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label2">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="minum:"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label7">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="3. Tidak tahu"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.TextField" name="txtB6R7">
+                          <Properties>
+                            <Property name="maxDigit" type="char" value="3"/>
+                            <Property name="minDigit" type="char" value="1"/>
+                          </Properties>
+                          <Events>
+                            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtB6R7ActionPerformed"/>
+                            <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="focusTxt"/>
+                          </Events>
+                        </Component>
+                      </SubComponents>
+                    </Container>
+                    <Container class="pkl49.component.PanelTransparan" name="panelB6R8">
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="10" pref="10" max="10" attributes="0"/>
+                                          <Component id="label27" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="label26" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace pref="103" max="32767" attributes="0"/>
+                                          <Component id="txtB6R8" min="-2" pref="32" max="-2" attributes="1"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="txtB6R8" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="label26" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="label27" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace pref="13" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Component class="pkl49.component.Label" name="label26">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="8. Penggunaan fasilitas buang air besar utama:"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label27">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="1. Sendiri    2. Bersama    3. Tidak Ada"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.TextField" name="txtB6R8">
+                          <Properties>
+                            <Property name="maxDigit" type="char" value="3"/>
+                            <Property name="minDigit" type="char" value="1"/>
+                          </Properties>
+                          <Events>
+                            <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="focusTxt"/>
+                          </Events>
+                        </Component>
+                      </SubComponents>
+                    </Container>
+                  </SubComponents>
+                </Container>
+                <Container class="pkl49.component.PanelTransparan" name="panelTransparan2">
+
+                  <Layout>
+                    <DimensionLayout dim="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="panelB6R9" max="32767" attributes="2"/>
+                          <Component id="panelB6R10" alignment="1" max="32767" attributes="2"/>
+                          <Component id="panelB6R11" alignment="0" max="32767" attributes="2"/>
+                          <Component id="panelB7R12" alignment="1" max="32767" attributes="2"/>
+                          <Component id="panelB6R13" alignment="0" max="32767" attributes="2"/>
+                          <Component id="panelB6R14" alignment="0" max="32767" attributes="2"/>
+                      </Group>
+                    </DimensionLayout>
+                    <DimensionLayout dim="1">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="panelB6R9" max="32767" attributes="0"/>
+                              <Component id="panelB6R10" max="32767" attributes="0"/>
+                              <Component id="panelB6R11" max="32767" attributes="0"/>
+                              <Component id="panelB7R12" max="32767" attributes="0"/>
+                              <Component id="panelB6R13" max="32767" attributes="0"/>
+                              <Component id="panelB6R14" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                    </DimensionLayout>
+                  </Layout>
+                  <SubComponents>
+                    <Container class="pkl49.component.PanelTransparan" name="panelB6R9">
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="10" pref="10" max="10" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="label30" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label29" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label31" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label32" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label33" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="label28" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace pref="204" max="32767" attributes="0"/>
+                                          <Component id="txtB6R9" min="-2" pref="33" max="-2" attributes="1"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="txtB6R9" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="label28" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="label29" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="label30" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="label31" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="label32" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="label33" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Component class="pkl49.component.Label" name="label28">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="9. Jenis jamban utama:"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label29">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="1. Leher angsa"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label30">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="2. Plengsengan"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label31">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="3. Cemplung"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label32">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="4. Kolam ikan/sungai/ kebun"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label33">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="5. Tidak Ada"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.TextField" name="txtB6R9">
+                          <Properties>
+                            <Property name="maxDigit" type="char" value="5"/>
+                            <Property name="minDigit" type="char" value="1"/>
+                          </Properties>
+                          <Events>
+                            <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="focusTxt"/>
+                          </Events>
+                        </Component>
+                      </SubComponents>
+                    </Container>
+                    <Container class="pkl49.component.PanelTransparan" name="panelB6R10">
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="label34" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace pref="89" max="32767" attributes="0"/>
+                                          <Component id="txtB6R10" min="-2" pref="33" max="-2" attributes="1"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="10" pref="10" max="10" attributes="0"/>
+                                          <Component id="label35" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="label34" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txtB6R10" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label35" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Component class="pkl49.component.Label" name="label34">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="10. Saluran pembuangan limbah rumah tangga:"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label35">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="1. Tertutup     2. Terbuka      3. Tidak Ada"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.TextField" name="txtB6R10">
+                          <Properties>
+                            <Property name="maxDigit" type="char" value="3"/>
+                            <Property name="minDigit" type="char" value="1"/>
+                          </Properties>
+                          <Events>
+                            <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="focusTxt"/>
+                          </Events>
+                        </Component>
+                      </SubComponents>
+                    </Container>
+                    <Container class="pkl49.component.PanelTransparan" name="panelB6R11">
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="label36" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace pref="118" max="32767" attributes="0"/>
+                                          <Component id="txtB6R11" min="-2" pref="35" max="-2" attributes="1"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="10" pref="10" max="10" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="label38" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label37" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label39" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label40" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="label36" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txtB6R11" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label37" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label38" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label39" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label40" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Component class="pkl49.component.Label" name="label36">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="11. Bagaimana kondisi saluran got Anda?"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label37">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="1. Mengalir lancar"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label38">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="2. Mengalir lambat"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label39">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="3. Tergenang"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label40">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="4. Tidak ada got"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.TextField" name="txtB6R11">
+                          <Properties>
+                            <Property name="maxDigit" type="char" value="4"/>
+                            <Property name="minDigit" type="char" value="1"/>
+                          </Properties>
+                          <Events>
+                            <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="focusTxt"/>
+                          </Events>
+                        </Component>
+                      </SubComponents>
+                    </Container>
+                    <Container class="pkl49.component.PanelTransparan" name="panelB7R12">
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="label44" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace pref="110" max="32767" attributes="0"/>
+                                          <Component id="txtB6R12" min="-2" pref="34" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" max="-2" attributes="0">
+                                          <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                              <Component id="label46" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label45" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label47" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label48" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label49" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label8" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label50" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Component id="label51" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                  <Component id="textB6R12Lain" min="-2" pref="39" max="-2" attributes="0"/>
+                                              </Group>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="64" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="label44" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txtB6R12" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label8" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label45" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label46" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label47" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label48" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label49" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label50" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="label51" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="textB6R12Lain" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Component class="pkl49.component.Label" name="label44">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="12. Bagaimana pengelolaan sampah rumah"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label45">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="1. Diangkut petugas"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label46">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="2. Ditimbun"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label47">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="3. Dibuat kompos"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label48">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="4. Dibakar"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label49">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="5. Dibuang ke kali"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label8">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="Anda?"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label50">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="6. Dibuang sembarangan"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label51">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="7. Lainnya"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.TextField" name="txtB6R12">
+                          <Properties>
+                            <Property name="maxDigit" type="char" value="7"/>
+                            <Property name="minDigit" type="char" value="1"/>
+                          </Properties>
+                          <Events>
+                            <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="focusTxt"/>
+                          </Events>
+                        </Component>
+                        <Component class="pkl49.component.TextField" name="textB6R12Lain">
+                          <Events>
+                            <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="focusTxt"/>
+                          </Events>
+                        </Component>
+                      </SubComponents>
+                    </Container>
+                    <Container class="pkl49.component.PanelTransparan" name="panelB6R13">
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="label52" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label43" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="label41" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace pref="102" max="32767" attributes="0"/>
+                                          <Component id="txtB6R13" min="-2" pref="33" max="-2" attributes="1"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="label41" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txtB6R13" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label52" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label43" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Component class="pkl49.component.Label" name="label41">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="13. Apakah rumah Anda pernah banjir dalam"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label43">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="1. Ya          2. Tidak"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label52">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="1 tahun terakhir?"/>
+                            </Property>
+                            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                              <Font name="Tahoma" size="11" style="1"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.TextField" name="txtB6R13">
+                          <Properties>
+                            <Property name="maxDigit" type="char" value="2"/>
+                            <Property name="minDigit" type="char" value="1"/>
+                          </Properties>
+                          <Events>
+                            <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="focusTxt"/>
+                          </Events>
+                        </Component>
+                      </SubComponents>
+                    </Container>
+                    <Container class="pkl49.component.PanelTransparan" name="panelB6R14">
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="label53" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="-2" pref="46" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Component id="label54" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="label55" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Component id="label56" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label58" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Component id="label62" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="label63" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Component id="label61" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="label73" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label72" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label71" alignment="0" min="-2" pref="94" max="-2" attributes="0"/>
+                                              <Component id="label64" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="label57" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Group type="102" alignment="0" attributes="1">
+                                                  <EmptySpace min="10" pref="10" max="10" attributes="0"/>
+                                                  <Component id="label118" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="label59" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Component id="label69" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace pref="78" max="32767" attributes="0"/>
+                                  <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                      <Component id="txtB6R14C1" max="32767" attributes="1"/>
+                                      <Component id="txtB6R14C2" alignment="1" max="32767" attributes="1"/>
+                                      <Component id="txtB6R14C3" alignment="1" pref="36" max="32767" attributes="1"/>
+                                      <Component id="txtB6R14B" alignment="1" max="32767" attributes="1"/>
+                                      <Component id="txtB6R14A" alignment="1" max="32767" attributes="1"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="label53" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txtB6R14A" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="label54" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="label55" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label56" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label58" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label61" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="label63" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="label62" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                                  <Component id="label57" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="label118" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="label59" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txtB6R14B" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label64" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="label69" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="9" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="label71" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txtB6R14C1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="7" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="label72" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txtB6R14C2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="label73" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txtB6R14C3" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Component class="pkl49.component.Label" name="label53">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="14. a. Apakah rumah dekat dengan"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label54">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="sumber pencemaran"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label55">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="(pabrik, bengkel,"/>
+                            </Property>
+                            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                              <Font name="Tahoma" size="11" style="1"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label56">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="rel kereta/jalan raya, tempat"/>
+                            </Property>
+                            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                              <Font name="Tahoma" size="11" style="1"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label58">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="pembuangan sampah, pasar, sutet,"/>
+                            </Property>
+                            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                              <Font name="Tahoma" size="11" style="1"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label61">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="stasiun ,terminal, bandara,dll) ?"/>
+                            </Property>
+                            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                              <Font name="Tahoma" size="11" style="1"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label62">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="1. Ya          2. Tidak"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label63">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="[Lanjut ke Blok VII]"/>
+                            </Property>
+                            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                              <Font name="Tahoma" size="11" style="2"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label57">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="b. Apakah Anda terganggu?"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label59">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="[Lanjut ke Blok VII]"/>
+                            </Property>
+                            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                              <Font name="Tahoma" size="11" style="2"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label64">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="c. Jenis gangguan :"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label69">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="     [isikan 1 jika &quot;Ya&quot; dan 2 jika &quot;Tidak&quot;]"/>
+                            </Property>
+                            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                              <Font name="Tahoma" size="11" style="2"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label71">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="     1. Suara"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label72">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="     2. Udara"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label73">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="     3. Air"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.TextField" name="txtB6R14A">
+                          <Properties>
+                            <Property name="maxDigit" type="char" value="2"/>
+                            <Property name="minDigit" type="char" value="1"/>
+                          </Properties>
+                          <Events>
+                            <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="focusTxt"/>
+                          </Events>
+                        </Component>
+                        <Component class="pkl49.component.TextField" name="txtB6R14B">
+                          <Properties>
+                            <Property name="maxDigit" type="char" value="2"/>
+                            <Property name="minDigit" type="char" value="1"/>
+                          </Properties>
+                          <Events>
+                            <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="focusTxt"/>
+                          </Events>
+                        </Component>
+                        <Component class="pkl49.component.Label" name="label118">
+                          <Properties>
+                            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+                              <PlainString value="1. Ya          2. Tidak"/>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="pkl49.component.TextField" name="txtB6R14C1">
+                          <Properties>
+                            <Property name="maxDigit" type="char" value="2"/>
+                            <Property name="minDigit" type="char" value="1"/>
+                          </Properties>
+                          <Events>
+                            <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="focusTxt"/>
+                          </Events>
+                        </Component>
+                        <Component class="pkl49.component.TextField" name="txtB6R14C2">
+                          <Properties>
+                            <Property name="maxDigit" type="char" value="2"/>
+                            <Property name="minDigit" type="char" value="1"/>
+                          </Properties>
+                          <Events>
+                            <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="focusTxt"/>
+                          </Events>
+                        </Component>
+                        <Component class="pkl49.component.TextField" name="txtB6R14C3">
+                          <Properties>
+                            <Property name="maxDigit" type="char" value="2"/>
+                            <Property name="minDigit" type="char" value="1"/>
+                          </Properties>
+                          <Events>
+                            <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="focusTxt"/>
+                          </Events>
+                        </Component>
+                      </SubComponents>
+                    </Container>
+                  </SubComponents>
+                </Container>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
